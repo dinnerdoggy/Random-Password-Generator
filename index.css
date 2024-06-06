@@ -1,9 +1,28 @@
 body {
     margin: 0;
     color: #EEEEEE;
-    background-color: #1B244A;
+    background-color: 1F2937;
     margin-top: 68px;
     margin-bottom: 281px;
     font-size: 40px;
-    font-family: Verdana;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+button {
+    background-color: 10B981;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 9;
+    padding-bottom: 9;
+    padding-left: 15;
+    padding-right: 15;
+    border: none;
+    border-radius: 6px;
 }
